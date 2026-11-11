@@ -1,0 +1,41 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.143'
+}
+// jar 文件名用 mod_version（平台每轮把构建号 -rN 盖在它末尾），所以文件名末尾留 rN。
+// 构建轮次 -rN 只用于本机测试 jar 的文件名（成品\测试版本），不进 git、不上 GitHub：
+// 轮次写在本目录不入库的 round.properties 里（mod_round=N）；没有这个文件时 jar 不带 -rN。
+def roundFile = file('round.properties')
+def roundProps = new Properties()
+if (roundFile.exists()) { roundFile.withInputStream { roundProps.load(it) } }
+def modRound = roundProps.getProperty('mod_round', '').trim()
+version = modRound ? "${mod_version}-r${modRound}" : mod_version
+group = mod_group_id
+base { archivesName = mod_id }
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+neoForge {
+    version = project.neo_version
+    runs { client { client() }; server { server(); programArgument '--nogui' } }
+    mods { "${mod_id}" { sourceSet(sourceSets.main) } }
+}
+repositories {
+    maven { url = 'https://maven.fabricmc.net/' }
+    mavenCentral()
+}
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+dependencies {
+    // 模组列表双语名称/搜索用的客户端 Mixin：NeoForge 运行时自带 Sponge Mixin 与 MixinExtras，这里只需编译期可见。
+    compileOnly 'net.fabricmc:sponge-mixin:0.15.2+mixin.0.8.7'
+    compileOnly 'io.github.llamalad7:mixinextras-common:0.5.4'
+}
+processResources {
+    // 模组元数据版本号（游戏内 mod 列表与 mods.toml 读的那份）末尾不留 -rN：
+    // 平台盖在 mod_version 上的构建号只用于区分 jar，不进版本声明。
+    def declaredVersion = mod_version.replaceAll('-r\\d+$', '')
+    def props = [minecraft_version: minecraft_version, minecraft_version_range: minecraft_version_range,
+                 neo_version: neo_version, loader_version_range: loader_version_range,
+                 mod_id: mod_id, mod_name: mod_name, mod_license: mod_license, mod_version: declaredVersion]
+    inputs.properties props
+    filteringCharset = 'UTF-8'
+    filesMatching('META-INF/neoforge.mods.toml') { expand props }
+}

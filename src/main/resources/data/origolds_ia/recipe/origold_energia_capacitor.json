@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ABA"
+  ],
+  "key": {
+    "A": { "item": "minecraft:iron_ingot" },
+    "B": { "item": "minecraft:gold_block" },
+    "C": { "tag": "c:glass_blocks" },
+    "D": { "item": "origolds:magigold_core" }
+  },
+  "result": {
+    "id": "origolds_ia:origold_energia_capacitor",
+    "count": 1
+  }
+}

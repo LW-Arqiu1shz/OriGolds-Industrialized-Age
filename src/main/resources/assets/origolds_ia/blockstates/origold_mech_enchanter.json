@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "mode=0": { "model": "origolds_ia:block/origold_mech_enchanter_1" },
+    "mode=1": { "model": "origolds_ia:block/origold_mech_enchanter_4" },
+    "mode=2": { "model": "origolds_ia:block/origold_mech_enchanter_16" }
+  }
+}

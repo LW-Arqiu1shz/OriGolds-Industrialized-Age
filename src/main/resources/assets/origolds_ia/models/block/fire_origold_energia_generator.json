@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "origolds_ia:block/top_bottom_gen",
+    "bottom": "origolds_ia:block/top_bottom_gen",
+    "side": "origolds_ia:block/firegen"
+  }
+}

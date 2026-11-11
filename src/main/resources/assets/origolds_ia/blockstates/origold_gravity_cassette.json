@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "facing=north,tier=0": { "model": "origolds_ia:block/origold_gravity_cassette_near" },
+    "facing=south,tier=0": { "model": "origolds_ia:block/origold_gravity_cassette_near", "y": 180 },
+    "facing=west,tier=0": { "model": "origolds_ia:block/origold_gravity_cassette_near", "y": 270 },
+    "facing=east,tier=0": { "model": "origolds_ia:block/origold_gravity_cassette_near", "y": 90 },
+    "facing=north,tier=1": { "model": "origolds_ia:block/origold_gravity_cassette_333" },
+    "facing=south,tier=1": { "model": "origolds_ia:block/origold_gravity_cassette_333", "y": 180 },
+    "facing=west,tier=1": { "model": "origolds_ia:block/origold_gravity_cassette_333", "y": 270 },
+    "facing=east,tier=1": { "model": "origolds_ia:block/origold_gravity_cassette_333", "y": 90 },
+    "facing=north,tier=2": { "model": "origolds_ia:block/origold_gravity_cassette_555" },
+    "facing=south,tier=2": { "model": "origolds_ia:block/origold_gravity_cassette_555", "y": 180 },
+    "facing=west,tier=2": { "model": "origolds_ia:block/origold_gravity_cassette_555", "y": 270 },
+    "facing=east,tier=2": { "model": "origolds_ia:block/origold_gravity_cassette_555", "y": 90 },
+    "facing=north,tier=3": { "model": "origolds_ia:block/origold_gravity_cassette_777" },
+    "facing=south,tier=3": { "model": "origolds_ia:block/origold_gravity_cassette_777", "y": 180 },
+    "facing=west,tier=3": { "model": "origolds_ia:block/origold_gravity_cassette_777", "y": 270 },
+    "facing=east,tier=3": { "model": "origolds_ia:block/origold_gravity_cassette_777", "y": 90 },
+    "facing=north,tier=4": { "model": "origolds_ia:block/origold_gravity_cassette" },
+    "facing=south,tier=4": { "model": "origolds_ia:block/origold_gravity_cassette", "y": 180 },
+    "facing=west,tier=4": { "model": "origolds_ia:block/origold_gravity_cassette", "y": 270 },
+    "facing=east,tier=4": { "model": "origolds_ia:block/origold_gravity_cassette", "y": 90 }
+  }
+}

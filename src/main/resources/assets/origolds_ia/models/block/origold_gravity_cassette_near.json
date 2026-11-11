@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "origolds_ia:block/container_side",
+    "north": "origolds_ia:block/gravitycassette_frontnear",
+    "south": "origolds_ia:block/container_back",
+    "east": "origolds_ia:block/container_side",
+    "west": "origolds_ia:block/container_side",
+    "up": "origolds_ia:block/container_side",
+    "down": "origolds_ia:block/container_side"
+  }
+}

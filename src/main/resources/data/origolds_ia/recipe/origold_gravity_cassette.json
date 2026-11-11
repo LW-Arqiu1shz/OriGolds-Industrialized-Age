@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "origolds_ia:origold_void_drawer" }
+  ],
+  "result": {
+    "id": "origolds_ia:origold_gravity_cassette",
+    "count": 1
+  }
+}

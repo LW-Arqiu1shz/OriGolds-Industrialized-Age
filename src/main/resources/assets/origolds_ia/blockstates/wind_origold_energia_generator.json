@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "origolds_ia:block/wind_origold_energia_generator" }
+  }
+}

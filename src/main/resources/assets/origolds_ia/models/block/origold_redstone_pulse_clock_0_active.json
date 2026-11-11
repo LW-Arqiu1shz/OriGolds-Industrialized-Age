@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "origolds_ia:block/top_bottom",
+    "bottom": "origolds_ia:block/top_bottom",
+    "side": "origolds_ia:block/clock0_active"
+  }
+}

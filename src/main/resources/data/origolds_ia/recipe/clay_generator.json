@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CCC",
+    "CcC",
+    "CCC"
+  ],
+  "key": {
+    "C": { "item": "minecraft:clay" },
+    "c": { "item": "origolds_ia:resource_generator_core" }
+  },
+  "result": {
+    "id": "origolds_ia:clay_generator",
+    "count": 1
+  }
+}

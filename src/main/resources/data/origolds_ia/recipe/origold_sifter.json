@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:gold_block" },
+    { "item": "origolds:magigold_core" },
+    { "item": "minecraft:cauldron" }
+  ],
+  "result": {
+    "id": "origolds_ia:origold_sifter",
+    "count": 1
+  }
+}

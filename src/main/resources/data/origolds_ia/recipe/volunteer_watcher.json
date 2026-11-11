@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    { "item": "minecraft:target" },
+    { "item": "minecraft:armor_stand" },
+    { "item": "minecraft:diamond" }
+  ],
+  "result": {
+    "id": "origolds_ia:volunteer_watcher",
+    "count": 1
+  }
+}

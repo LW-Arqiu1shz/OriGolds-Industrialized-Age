@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "origolds_ia:block/output_top",
+    "bottom": "origolds_ia:block/top_bottom",
+    "side": "origolds_ia:block/jinkela_side777"
+  }
+}

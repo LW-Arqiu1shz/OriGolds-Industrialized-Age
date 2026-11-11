@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ABA"
+  ],
+  "key": {
+    "A": { "item": "minecraft:iron_block" },
+    "B": { "item": "origolds_ia:water_origold_energia_generator" },
+    "C": { "item": "minecraft:furnace" }
+  },
+  "result": {
+    "id": "origolds_ia:fire_origold_energia_generator",
+    "count": 1
+  }
+}

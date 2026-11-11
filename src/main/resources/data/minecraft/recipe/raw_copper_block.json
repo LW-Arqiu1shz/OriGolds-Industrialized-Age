@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "type": "neoforge:difference",
+      "base": { "item": "minecraft:raw_copper" },
+      "subtracted": {
+        "type": "neoforge:components",
+        "items": "minecraft:raw_copper",
+        "components": { "origolds_ia:oge_concentrated": "minecraft:raw_copper" }
+      }
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:raw_copper_block"
+  }
+}

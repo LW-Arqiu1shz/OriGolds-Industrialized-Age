@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "origolds_ia:item/rainbow_mark_5x"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "origolds_ia:item/rainbow_mark_20x"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "origolds_ia:item/rainbow_mark_100x"
+    }
+  ]
+}

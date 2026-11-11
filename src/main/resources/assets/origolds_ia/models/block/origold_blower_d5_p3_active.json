@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "origolds_ia:block/container_side",
+    "up": "origolds_ia:block/fan_front2",
+    "down": "origolds_ia:block/top_bottom",
+    "north": "origolds_ia:block/blower_side_d5_p3",
+    "south": "origolds_ia:block/blower_side_d5_p3",
+    "east": "origolds_ia:block/blower_side_d5_p3",
+    "west": "origolds_ia:block/blower_side_d5_p3"
+  }
+}

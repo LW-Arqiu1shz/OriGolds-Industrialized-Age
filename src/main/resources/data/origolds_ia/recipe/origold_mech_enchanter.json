@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:gold_block" },
+    { "item": "origolds:magigold_core" },
+    { "item": "minecraft:enchanting_table" }
+  ],
+  "result": {
+    "id": "origolds_ia:origold_mech_enchanter",
+    "count": 1
+  }
+}

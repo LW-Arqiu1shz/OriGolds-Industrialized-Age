@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=north,mode=0": {
+      "model": "origolds_ia:block/origold_hyperfurnace_1x"
+    },
+    "facing=east,mode=0": {
+      "model": "origolds_ia:block/origold_hyperfurnace_1x",
+      "y": 90
+    },
+    "facing=south,mode=0": {
+      "model": "origolds_ia:block/origold_hyperfurnace_1x",
+      "y": 180
+    },
+    "facing=west,mode=0": {
+      "model": "origolds_ia:block/origold_hyperfurnace_1x",
+      "y": 270
+    },
+    "facing=north,mode=1": {
+      "model": "origolds_ia:block/origold_hyperfurnace_5x"
+    },
+    "facing=east,mode=1": {
+      "model": "origolds_ia:block/origold_hyperfurnace_5x",
+      "y": 90
+    },
+    "facing=south,mode=1": {
+      "model": "origolds_ia:block/origold_hyperfurnace_5x",
+      "y": 180
+    },
+    "facing=west,mode=1": {
+      "model": "origolds_ia:block/origold_hyperfurnace_5x",
+      "y": 270
+    },
+    "facing=north,mode=2": {
+      "model": "origolds_ia:block/origold_hyperfurnace_20x"
+    },
+    "facing=east,mode=2": {
+      "model": "origolds_ia:block/origold_hyperfurnace_20x",
+      "y": 90
+    },
+    "facing=south,mode=2": {
+      "model": "origolds_ia:block/origold_hyperfurnace_20x",
+      "y": 180
+    },
+    "facing=west,mode=2": {
+      "model": "origolds_ia:block/origold_hyperfurnace_20x",
+      "y": 270
+    }
+  }
+}

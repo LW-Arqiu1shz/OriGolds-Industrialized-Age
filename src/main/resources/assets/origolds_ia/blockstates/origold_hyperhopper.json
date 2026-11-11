@@ -1,0 +1,94 @@
+{
+  "variants": {
+    "input=down,output=up": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_down_o_up"
+    },
+    "input=down,output=north": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_down_o_north"
+    },
+    "input=down,output=south": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_down_o_south"
+    },
+    "input=down,output=west": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_down_o_west"
+    },
+    "input=down,output=east": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_down_o_east"
+    },
+    "input=up,output=down": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_up_o_down"
+    },
+    "input=up,output=north": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_up_o_north"
+    },
+    "input=up,output=south": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_up_o_south"
+    },
+    "input=up,output=west": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_up_o_west"
+    },
+    "input=up,output=east": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_up_o_east"
+    },
+    "input=north,output=down": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_north_o_down"
+    },
+    "input=north,output=up": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_north_o_up"
+    },
+    "input=north,output=south": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_north_o_south"
+    },
+    "input=north,output=west": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_north_o_west"
+    },
+    "input=north,output=east": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_north_o_east"
+    },
+    "input=south,output=down": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_south_o_down"
+    },
+    "input=south,output=up": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_south_o_up"
+    },
+    "input=south,output=north": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_south_o_north"
+    },
+    "input=south,output=west": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_south_o_west"
+    },
+    "input=south,output=east": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_south_o_east"
+    },
+    "input=west,output=down": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_west_o_down"
+    },
+    "input=west,output=up": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_west_o_up"
+    },
+    "input=west,output=north": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_west_o_north"
+    },
+    "input=west,output=south": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_west_o_south"
+    },
+    "input=west,output=east": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_west_o_east"
+    },
+    "input=east,output=down": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_east_o_down"
+    },
+    "input=east,output=up": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_east_o_up"
+    },
+    "input=east,output=north": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_east_o_north"
+    },
+    "input=east,output=south": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_east_o_south"
+    },
+    "input=east,output=west": {
+      "model": "origolds_ia:block/origold_hyperhopper_i_east_o_west"
+    }
+  }
+}

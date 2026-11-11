@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "origolds_ia:block/top_bottom",
+    "up": "origolds_ia:block/output_top",
+    "down": "origolds_ia:block/top_bottom",
+    "north": "origolds_ia:block/hyperfurnace_front_20x",
+    "south": "origolds_ia:block/top_bottom",
+    "east": "origolds_ia:block/top_bottom",
+    "west": "origolds_ia:block/top_bottom"
+  }
+}

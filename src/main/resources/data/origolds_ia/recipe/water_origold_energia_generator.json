@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ABA"
+  ],
+  "key": {
+    "A": { "tag": "minecraft:cobblestone" },
+    "B": { "item": "origolds_ia:wind_origold_energia_generator" },
+    "C": { "item": "minecraft:bucket" }
+  },
+  "result": {
+    "id": "origolds_ia:water_origold_energia_generator"
+  }
+}
