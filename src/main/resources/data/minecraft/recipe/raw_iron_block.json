@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "neoforge:ingredient_type": "neoforge:difference",
+      "base": "minecraft:raw_iron",
+      "subtracted": {
+        "neoforge:ingredient_type": "neoforge:components",
+        "items": "minecraft:raw_iron",
+        "components": {
+          "origolds_ia:oge_concentrated": "minecraft:raw_iron"
+        }
+      }
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:raw_iron_block"
+  }
+}

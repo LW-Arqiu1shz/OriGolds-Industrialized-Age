@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "OOO",
+    "OcO",
+    "OOO"
+  ],
+  "key": {
+    "O": "minecraft:obsidian",
+    "c": "origolds_ia:resource_generator_core"
+  },
+  "result": {
+    "id": "origolds_ia:obsidian_generator",
+    "count": 1
+  }
+}

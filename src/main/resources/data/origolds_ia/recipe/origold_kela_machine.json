@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:gold_block",
+    "origolds:magigold_core",
+    "minecraft:composter"
+  ],
+  "result": {
+    "id": "origolds_ia:origold_kela_machine",
+    "count": 1
+  }
+}

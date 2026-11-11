@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "progress=0,running=false": { "model": "origolds_ia:block/origold_redstone_pulse_clock_0" },
+    "progress=0,running=true": { "model": "origolds_ia:block/origold_redstone_pulse_clock_0_active" },
+    "progress=1,running=false": { "model": "origolds_ia:block/origold_redstone_pulse_clock_1" },
+    "progress=1,running=true": { "model": "origolds_ia:block/origold_redstone_pulse_clock_1_active" },
+    "progress=2,running=false": { "model": "origolds_ia:block/origold_redstone_pulse_clock_2" },
+    "progress=2,running=true": { "model": "origolds_ia:block/origold_redstone_pulse_clock_2_active" },
+    "progress=3,running=false": { "model": "origolds_ia:block/origold_redstone_pulse_clock_3" },
+    "progress=3,running=true": { "model": "origolds_ia:block/origold_redstone_pulse_clock_3_active" },
+    "progress=4,running=false": { "model": "origolds_ia:block/origold_redstone_pulse_clock_4" },
+    "progress=4,running=true": { "model": "origolds_ia:block/origold_redstone_pulse_clock_4_active" },
+    "progress=5,running=false": { "model": "origolds_ia:block/origold_redstone_pulse_clock_5" },
+    "progress=5,running=true": { "model": "origolds_ia:block/origold_redstone_pulse_clock_5_active" },
+    "progress=6,running=false": { "model": "origolds_ia:block/origold_redstone_pulse_clock_6" },
+    "progress=6,running=true": { "model": "origolds_ia:block/origold_redstone_pulse_clock_6_active" },
+    "progress=7,running=false": { "model": "origolds_ia:block/origold_redstone_pulse_clock_7" },
+    "progress=7,running=true": { "model": "origolds_ia:block/origold_redstone_pulse_clock_7_active" }
+  }
+}

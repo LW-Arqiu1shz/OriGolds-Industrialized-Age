@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:furnace",
+    "minecraft:gold_block",
+    "origolds:magigold_core"
+  ],
+  "result": {
+    "id": "origolds_ia:origold_hyperfurnace",
+    "count": 1
+  }
+}

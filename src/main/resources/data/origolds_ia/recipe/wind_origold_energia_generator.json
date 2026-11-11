@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ABA"
+  ],
+  "key": {
+    "A": "minecraft:oak_planks",
+    "B": "origolds:magigold_core",
+    "C": "minecraft:white_wool"
+  },
+  "result": {
+    "id": "origolds_ia:wind_origold_energia_generator"
+  }
+}

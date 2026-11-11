@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "mode=0": { "model": "origolds_ia:block/origold_placer_1t" },
+    "mode=1": { "model": "origolds_ia:block/origold_placer_5t" },
+    "mode=2": { "model": "origolds_ia:block/origold_placer_10t" },
+    "mode=3": { "model": "origolds_ia:block/origold_placer_20t" }
+  }
+}

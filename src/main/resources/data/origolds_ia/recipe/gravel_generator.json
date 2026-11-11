@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GGG",
+    "GcG",
+    "GGG"
+  ],
+  "key": {
+    "G": "minecraft:gravel",
+    "c": "origolds_ia:resource_generator_core"
+  },
+  "result": {
+    "id": "origolds_ia:gravel_generator",
+    "count": 1
+  }
+}

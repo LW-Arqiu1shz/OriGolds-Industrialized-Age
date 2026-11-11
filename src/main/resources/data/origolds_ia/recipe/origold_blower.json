@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:gold_block",
+    "origolds:magigold_core",
+    "minecraft:piston"
+  ],
+  "result": {
+    "id": "origolds_ia:origold_blower",
+    "count": 1
+  }
+}

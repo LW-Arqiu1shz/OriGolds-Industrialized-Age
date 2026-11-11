@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "origolds_ia_rainbow_mark",
+  "pattern": [
+    "DDD",
+    "DCD",
+    "DAD"
+  ],
+  "key": {
+    "D": "#origolds_ia:rainbow_dyes",
+    "C": "origolds:magigold_core",
+    "A": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "origolds_ia:rainbow_mark",
+    "count": 1,
+    "components": {
+      "minecraft:damage": 63,
+      "origolds_ia:rainbow_tier": 0
+    }
+  }
+}

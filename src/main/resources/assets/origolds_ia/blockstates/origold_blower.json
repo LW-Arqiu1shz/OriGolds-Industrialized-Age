@@ -1,0 +1,1668 @@
+{
+  "variants": {
+    "facing=down,distance=1,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p1",
+      "x": 180
+    },
+    "facing=down,distance=1,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p1_active",
+      "x": 180
+    },
+    "facing=down,distance=1,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p2",
+      "x": 180
+    },
+    "facing=down,distance=1,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p2_active",
+      "x": 180
+    },
+    "facing=down,distance=1,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p3",
+      "x": 180
+    },
+    "facing=down,distance=1,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p3_active",
+      "x": 180
+    },
+    "facing=down,distance=1,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p4",
+      "x": 180
+    },
+    "facing=down,distance=1,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p4_active",
+      "x": 180
+    },
+    "facing=down,distance=2,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p1",
+      "x": 180
+    },
+    "facing=down,distance=2,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p1_active",
+      "x": 180
+    },
+    "facing=down,distance=2,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p2",
+      "x": 180
+    },
+    "facing=down,distance=2,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p2_active",
+      "x": 180
+    },
+    "facing=down,distance=2,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p3",
+      "x": 180
+    },
+    "facing=down,distance=2,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p3_active",
+      "x": 180
+    },
+    "facing=down,distance=2,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p4",
+      "x": 180
+    },
+    "facing=down,distance=2,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p4_active",
+      "x": 180
+    },
+    "facing=down,distance=3,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p1",
+      "x": 180
+    },
+    "facing=down,distance=3,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p1_active",
+      "x": 180
+    },
+    "facing=down,distance=3,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p2",
+      "x": 180
+    },
+    "facing=down,distance=3,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p2_active",
+      "x": 180
+    },
+    "facing=down,distance=3,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p3",
+      "x": 180
+    },
+    "facing=down,distance=3,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p3_active",
+      "x": 180
+    },
+    "facing=down,distance=3,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p4",
+      "x": 180
+    },
+    "facing=down,distance=3,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p4_active",
+      "x": 180
+    },
+    "facing=down,distance=4,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p1",
+      "x": 180
+    },
+    "facing=down,distance=4,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p1_active",
+      "x": 180
+    },
+    "facing=down,distance=4,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p2",
+      "x": 180
+    },
+    "facing=down,distance=4,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p2_active",
+      "x": 180
+    },
+    "facing=down,distance=4,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p3",
+      "x": 180
+    },
+    "facing=down,distance=4,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p3_active",
+      "x": 180
+    },
+    "facing=down,distance=4,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p4",
+      "x": 180
+    },
+    "facing=down,distance=4,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p4_active",
+      "x": 180
+    },
+    "facing=down,distance=5,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p1",
+      "x": 180
+    },
+    "facing=down,distance=5,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p1_active",
+      "x": 180
+    },
+    "facing=down,distance=5,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p2",
+      "x": 180
+    },
+    "facing=down,distance=5,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p2_active",
+      "x": 180
+    },
+    "facing=down,distance=5,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p3",
+      "x": 180
+    },
+    "facing=down,distance=5,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p3_active",
+      "x": 180
+    },
+    "facing=down,distance=5,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p4",
+      "x": 180
+    },
+    "facing=down,distance=5,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p4_active",
+      "x": 180
+    },
+    "facing=down,distance=6,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p1",
+      "x": 180
+    },
+    "facing=down,distance=6,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p1_active",
+      "x": 180
+    },
+    "facing=down,distance=6,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p2",
+      "x": 180
+    },
+    "facing=down,distance=6,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p2_active",
+      "x": 180
+    },
+    "facing=down,distance=6,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p3",
+      "x": 180
+    },
+    "facing=down,distance=6,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p3_active",
+      "x": 180
+    },
+    "facing=down,distance=6,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p4",
+      "x": 180
+    },
+    "facing=down,distance=6,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p4_active",
+      "x": 180
+    },
+    "facing=down,distance=7,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p1",
+      "x": 180
+    },
+    "facing=down,distance=7,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p1_active",
+      "x": 180
+    },
+    "facing=down,distance=7,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p2",
+      "x": 180
+    },
+    "facing=down,distance=7,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p2_active",
+      "x": 180
+    },
+    "facing=down,distance=7,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p3",
+      "x": 180
+    },
+    "facing=down,distance=7,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p3_active",
+      "x": 180
+    },
+    "facing=down,distance=7,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p4",
+      "x": 180
+    },
+    "facing=down,distance=7,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p4_active",
+      "x": 180
+    },
+    "facing=down,distance=8,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p1",
+      "x": 180
+    },
+    "facing=down,distance=8,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p1_active",
+      "x": 180
+    },
+    "facing=down,distance=8,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p2",
+      "x": 180
+    },
+    "facing=down,distance=8,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p2_active",
+      "x": 180
+    },
+    "facing=down,distance=8,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p3",
+      "x": 180
+    },
+    "facing=down,distance=8,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p3_active",
+      "x": 180
+    },
+    "facing=down,distance=8,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p4",
+      "x": 180
+    },
+    "facing=down,distance=8,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p4_active",
+      "x": 180
+    },
+    "facing=east,distance=1,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p1",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=1,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p1_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=1,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p2",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=1,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p2_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=1,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p3",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=1,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p3_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=1,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p4",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=1,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p4_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=2,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p1",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=2,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p1_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=2,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p2",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=2,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p2_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=2,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p3",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=2,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p3_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=2,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p4",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=2,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p4_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=3,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p1",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=3,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p1_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=3,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p2",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=3,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p2_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=3,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p3",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=3,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p3_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=3,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p4",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=3,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p4_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=4,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p1",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=4,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p1_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=4,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p2",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=4,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p2_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=4,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p3",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=4,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p3_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=4,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p4",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=4,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p4_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=5,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p1",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=5,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p1_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=5,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p2",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=5,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p2_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=5,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p3",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=5,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p3_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=5,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p4",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=5,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p4_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=6,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p1",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=6,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p1_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=6,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p2",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=6,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p2_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=6,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p3",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=6,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p3_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=6,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p4",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=6,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p4_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=7,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p1",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=7,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p1_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=7,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p2",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=7,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p2_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=7,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p3",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=7,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p3_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=7,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p4",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=7,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p4_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=8,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p1",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=8,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p1_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=8,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p2",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=8,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p2_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=8,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p3",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=8,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p3_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=8,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p4",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,distance=8,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p4_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north,distance=1,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p1",
+      "x": 90
+    },
+    "facing=north,distance=1,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p1_active",
+      "x": 90
+    },
+    "facing=north,distance=1,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p2",
+      "x": 90
+    },
+    "facing=north,distance=1,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p2_active",
+      "x": 90
+    },
+    "facing=north,distance=1,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p3",
+      "x": 90
+    },
+    "facing=north,distance=1,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p3_active",
+      "x": 90
+    },
+    "facing=north,distance=1,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p4",
+      "x": 90
+    },
+    "facing=north,distance=1,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p4_active",
+      "x": 90
+    },
+    "facing=north,distance=2,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p1",
+      "x": 90
+    },
+    "facing=north,distance=2,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p1_active",
+      "x": 90
+    },
+    "facing=north,distance=2,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p2",
+      "x": 90
+    },
+    "facing=north,distance=2,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p2_active",
+      "x": 90
+    },
+    "facing=north,distance=2,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p3",
+      "x": 90
+    },
+    "facing=north,distance=2,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p3_active",
+      "x": 90
+    },
+    "facing=north,distance=2,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p4",
+      "x": 90
+    },
+    "facing=north,distance=2,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p4_active",
+      "x": 90
+    },
+    "facing=north,distance=3,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p1",
+      "x": 90
+    },
+    "facing=north,distance=3,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p1_active",
+      "x": 90
+    },
+    "facing=north,distance=3,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p2",
+      "x": 90
+    },
+    "facing=north,distance=3,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p2_active",
+      "x": 90
+    },
+    "facing=north,distance=3,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p3",
+      "x": 90
+    },
+    "facing=north,distance=3,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p3_active",
+      "x": 90
+    },
+    "facing=north,distance=3,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p4",
+      "x": 90
+    },
+    "facing=north,distance=3,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p4_active",
+      "x": 90
+    },
+    "facing=north,distance=4,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p1",
+      "x": 90
+    },
+    "facing=north,distance=4,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p1_active",
+      "x": 90
+    },
+    "facing=north,distance=4,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p2",
+      "x": 90
+    },
+    "facing=north,distance=4,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p2_active",
+      "x": 90
+    },
+    "facing=north,distance=4,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p3",
+      "x": 90
+    },
+    "facing=north,distance=4,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p3_active",
+      "x": 90
+    },
+    "facing=north,distance=4,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p4",
+      "x": 90
+    },
+    "facing=north,distance=4,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p4_active",
+      "x": 90
+    },
+    "facing=north,distance=5,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p1",
+      "x": 90
+    },
+    "facing=north,distance=5,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p1_active",
+      "x": 90
+    },
+    "facing=north,distance=5,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p2",
+      "x": 90
+    },
+    "facing=north,distance=5,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p2_active",
+      "x": 90
+    },
+    "facing=north,distance=5,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p3",
+      "x": 90
+    },
+    "facing=north,distance=5,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p3_active",
+      "x": 90
+    },
+    "facing=north,distance=5,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p4",
+      "x": 90
+    },
+    "facing=north,distance=5,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p4_active",
+      "x": 90
+    },
+    "facing=north,distance=6,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p1",
+      "x": 90
+    },
+    "facing=north,distance=6,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p1_active",
+      "x": 90
+    },
+    "facing=north,distance=6,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p2",
+      "x": 90
+    },
+    "facing=north,distance=6,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p2_active",
+      "x": 90
+    },
+    "facing=north,distance=6,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p3",
+      "x": 90
+    },
+    "facing=north,distance=6,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p3_active",
+      "x": 90
+    },
+    "facing=north,distance=6,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p4",
+      "x": 90
+    },
+    "facing=north,distance=6,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p4_active",
+      "x": 90
+    },
+    "facing=north,distance=7,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p1",
+      "x": 90
+    },
+    "facing=north,distance=7,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p1_active",
+      "x": 90
+    },
+    "facing=north,distance=7,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p2",
+      "x": 90
+    },
+    "facing=north,distance=7,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p2_active",
+      "x": 90
+    },
+    "facing=north,distance=7,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p3",
+      "x": 90
+    },
+    "facing=north,distance=7,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p3_active",
+      "x": 90
+    },
+    "facing=north,distance=7,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p4",
+      "x": 90
+    },
+    "facing=north,distance=7,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p4_active",
+      "x": 90
+    },
+    "facing=north,distance=8,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p1",
+      "x": 90
+    },
+    "facing=north,distance=8,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p1_active",
+      "x": 90
+    },
+    "facing=north,distance=8,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p2",
+      "x": 90
+    },
+    "facing=north,distance=8,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p2_active",
+      "x": 90
+    },
+    "facing=north,distance=8,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p3",
+      "x": 90
+    },
+    "facing=north,distance=8,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p3_active",
+      "x": 90
+    },
+    "facing=north,distance=8,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p4",
+      "x": 90
+    },
+    "facing=north,distance=8,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p4_active",
+      "x": 90
+    },
+    "facing=south,distance=1,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p1",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=1,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p1_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=1,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p2",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=1,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p2_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=1,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p3",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=1,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p3_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=1,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p4",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=1,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p4_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=2,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p1",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=2,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p1_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=2,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p2",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=2,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p2_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=2,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p3",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=2,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p3_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=2,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p4",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=2,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p4_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=3,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p1",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=3,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p1_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=3,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p2",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=3,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p2_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=3,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p3",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=3,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p3_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=3,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p4",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=3,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p4_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=4,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p1",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=4,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p1_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=4,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p2",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=4,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p2_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=4,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p3",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=4,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p3_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=4,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p4",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=4,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p4_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=5,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p1",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=5,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p1_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=5,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p2",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=5,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p2_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=5,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p3",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=5,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p3_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=5,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p4",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=5,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p4_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=6,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p1",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=6,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p1_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=6,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p2",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=6,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p2_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=6,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p3",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=6,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p3_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=6,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p4",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=6,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p4_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=7,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p1",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=7,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p1_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=7,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p2",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=7,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p2_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=7,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p3",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=7,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p3_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=7,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p4",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=7,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p4_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=8,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p1",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=8,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p1_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=8,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p2",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=8,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p2_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=8,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p3",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=8,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p3_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=8,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p4",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,distance=8,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p4_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up,distance=1,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p1"
+    },
+    "facing=up,distance=1,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p1_active"
+    },
+    "facing=up,distance=1,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p2"
+    },
+    "facing=up,distance=1,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p2_active"
+    },
+    "facing=up,distance=1,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p3"
+    },
+    "facing=up,distance=1,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p3_active"
+    },
+    "facing=up,distance=1,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p4"
+    },
+    "facing=up,distance=1,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p4_active"
+    },
+    "facing=up,distance=2,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p1"
+    },
+    "facing=up,distance=2,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p1_active"
+    },
+    "facing=up,distance=2,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p2"
+    },
+    "facing=up,distance=2,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p2_active"
+    },
+    "facing=up,distance=2,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p3"
+    },
+    "facing=up,distance=2,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p3_active"
+    },
+    "facing=up,distance=2,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p4"
+    },
+    "facing=up,distance=2,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p4_active"
+    },
+    "facing=up,distance=3,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p1"
+    },
+    "facing=up,distance=3,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p1_active"
+    },
+    "facing=up,distance=3,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p2"
+    },
+    "facing=up,distance=3,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p2_active"
+    },
+    "facing=up,distance=3,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p3"
+    },
+    "facing=up,distance=3,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p3_active"
+    },
+    "facing=up,distance=3,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p4"
+    },
+    "facing=up,distance=3,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p4_active"
+    },
+    "facing=up,distance=4,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p1"
+    },
+    "facing=up,distance=4,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p1_active"
+    },
+    "facing=up,distance=4,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p2"
+    },
+    "facing=up,distance=4,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p2_active"
+    },
+    "facing=up,distance=4,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p3"
+    },
+    "facing=up,distance=4,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p3_active"
+    },
+    "facing=up,distance=4,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p4"
+    },
+    "facing=up,distance=4,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p4_active"
+    },
+    "facing=up,distance=5,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p1"
+    },
+    "facing=up,distance=5,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p1_active"
+    },
+    "facing=up,distance=5,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p2"
+    },
+    "facing=up,distance=5,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p2_active"
+    },
+    "facing=up,distance=5,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p3"
+    },
+    "facing=up,distance=5,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p3_active"
+    },
+    "facing=up,distance=5,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p4"
+    },
+    "facing=up,distance=5,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p4_active"
+    },
+    "facing=up,distance=6,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p1"
+    },
+    "facing=up,distance=6,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p1_active"
+    },
+    "facing=up,distance=6,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p2"
+    },
+    "facing=up,distance=6,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p2_active"
+    },
+    "facing=up,distance=6,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p3"
+    },
+    "facing=up,distance=6,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p3_active"
+    },
+    "facing=up,distance=6,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p4"
+    },
+    "facing=up,distance=6,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p4_active"
+    },
+    "facing=up,distance=7,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p1"
+    },
+    "facing=up,distance=7,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p1_active"
+    },
+    "facing=up,distance=7,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p2"
+    },
+    "facing=up,distance=7,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p2_active"
+    },
+    "facing=up,distance=7,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p3"
+    },
+    "facing=up,distance=7,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p3_active"
+    },
+    "facing=up,distance=7,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p4"
+    },
+    "facing=up,distance=7,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p4_active"
+    },
+    "facing=up,distance=8,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p1"
+    },
+    "facing=up,distance=8,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p1_active"
+    },
+    "facing=up,distance=8,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p2"
+    },
+    "facing=up,distance=8,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p2_active"
+    },
+    "facing=up,distance=8,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p3"
+    },
+    "facing=up,distance=8,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p3_active"
+    },
+    "facing=up,distance=8,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p4"
+    },
+    "facing=up,distance=8,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p4_active"
+    },
+    "facing=west,distance=1,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p1",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=1,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p1_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=1,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p2",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=1,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p2_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=1,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p3",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=1,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p3_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=1,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d1_p4",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=1,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d1_p4_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=2,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p1",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=2,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p1_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=2,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p2",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=2,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p2_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=2,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p3",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=2,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p3_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=2,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d2_p4",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=2,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d2_p4_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=3,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p1",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=3,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p1_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=3,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p2",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=3,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p2_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=3,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p3",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=3,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p3_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=3,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d3_p4",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=3,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d3_p4_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=4,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p1",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=4,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p1_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=4,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p2",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=4,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p2_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=4,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p3",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=4,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p3_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=4,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d4_p4",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=4,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d4_p4_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=5,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p1",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=5,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p1_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=5,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p2",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=5,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p2_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=5,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p3",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=5,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p3_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=5,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d5_p4",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=5,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d5_p4_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=6,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p1",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=6,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p1_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=6,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p2",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=6,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p2_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=6,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p3",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=6,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p3_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=6,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d6_p4",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=6,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d6_p4_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=7,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p1",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=7,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p1_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=7,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p2",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=7,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p2_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=7,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p3",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=7,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p3_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=7,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d7_p4",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=7,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d7_p4_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=8,power=1,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p1",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=8,power=1,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p1_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=8,power=2,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p2",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=8,power=2,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p2_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=8,power=3,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p3",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=8,power=3,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p3_active",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=8,power=4,active=false": {
+      "model": "origolds_ia:block/origold_blower_d8_p4",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,distance=8,power=4,active=true": {
+      "model": "origolds_ia:block/origold_blower_d8_p4_active",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ABA"
+  ],
+  "key": {
+    "A": "minecraft:diamond_block",
+    "B": "origolds_ia:fire_origold_energia_generator",
+    "C": "minecraft:enchanting_table"
+  },
+  "result": {
+    "id": "origolds_ia:magic_origold_energia_generator",
+    "count": 1
+  }
+}

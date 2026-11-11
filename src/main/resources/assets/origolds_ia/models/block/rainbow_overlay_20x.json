@@ -1,0 +1,22 @@
+{
+  "render_type": "minecraft:translucent",
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "origolds_ia:block/rainbow_overlay_20x",
+    "overlay": "origolds_ia:block/rainbow_overlay_20x"
+  },
+  "elements": [
+    {
+      "from": [-0.01, -0.01, -0.01],
+      "to": [16.01, 16.01, 16.01],
+      "faces": {
+        "down": { "uv": [0, 0, 16, 16], "texture": "#overlay" },
+        "up": { "uv": [0, 0, 16, 16], "texture": "#overlay" },
+        "north": { "uv": [0, 0, 16, 16], "texture": "#overlay" },
+        "south": { "uv": [0, 0, 16, 16], "texture": "#overlay" },
+        "west": { "uv": [0, 0, 16, 16], "texture": "#overlay" },
+        "east": { "uv": [0, 0, 16, 16], "texture": "#overlay" }
+      }
+    }
+  ]
+}

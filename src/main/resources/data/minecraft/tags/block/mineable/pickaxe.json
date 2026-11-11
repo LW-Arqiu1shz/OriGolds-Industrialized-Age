@@ -1,0 +1,28 @@
+{
+  "values": [
+    "origolds_ia:wind_origold_energia_generator",
+    "origolds_ia:water_origold_energia_generator",
+    "origolds_ia:fire_origold_energia_generator",
+    "origolds_ia:magic_origold_energia_generator",
+    "origolds_ia:origold_energia_capacitor",
+    "origolds_ia:origold_logger",
+    "origolds_ia:origold_driller",
+    "origolds_ia:gravel_generator",
+    "origolds_ia:clay_generator",
+    "origolds_ia:obsidian_generator",
+    "origolds_ia:origold_pulverizer",
+    "origolds_ia:origold_sifter",
+    "origolds_ia:origold_void_drawer",
+    "origolds_ia:origold_gravity_cassette",
+    "origolds_ia:origold_voiding_station",
+    "origolds_ia:origold_blower",
+    "origolds_ia:origold_mech_enchanter",
+    "origolds_ia:origold_kela_machine",
+    "origolds_ia:origold_redstone_pulse_clock",
+    "origolds_ia:origold_hyperhopper",
+    "origolds_ia:origold_chrysopoeia_station",
+    "origolds_ia:origold_mech_crafter",
+    "origolds_ia:origold_hyperfurnace",
+    "origolds_ia:origold_sawblade_mount"
+  ]
+}

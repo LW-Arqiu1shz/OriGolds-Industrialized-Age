@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "origolds_ia:item/rainbow_mark"
+    },
+    "entries": [
+      {
+        "threshold": 0.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "origolds_ia:item/rainbow_mark_20x"
+        }
+      },
+      {
+        "threshold": 1.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "origolds_ia:item/rainbow_mark_100x"
+        }
+      }
+    ]
+  }
+}
