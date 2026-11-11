@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:chest",
+    "minecraft:trapped_chest",
+    "minecraft:barrel",
+    { "id": "#c:chests", "required": false },
+    { "id": "#c:barrels", "required": false }
+  ]
+}

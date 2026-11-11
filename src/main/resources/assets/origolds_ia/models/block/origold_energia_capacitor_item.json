@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "origolds_ia:block/top_bottom_battery",
+    "bottom": "origolds_ia:block/top_bottom_battery",
+    "side": "origolds_ia:block/oge_battery_shell_item"
+  }
+}

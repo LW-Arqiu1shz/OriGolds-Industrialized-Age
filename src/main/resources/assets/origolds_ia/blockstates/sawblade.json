@@ -1,0 +1,292 @@
+{
+  "variants": {
+    "mount_face=north,facing=north,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_wall",
+      "y": 0
+    },
+    "mount_face=north,facing=north,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m1",
+      "y": 0
+    },
+    "mount_face=north,facing=north,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m2",
+      "y": 0
+    },
+    "mount_face=north,facing=east,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_wall",
+      "y": 0
+    },
+    "mount_face=north,facing=east,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m1",
+      "y": 0
+    },
+    "mount_face=north,facing=east,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m2",
+      "y": 0
+    },
+    "mount_face=north,facing=south,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_wall",
+      "y": 0
+    },
+    "mount_face=north,facing=south,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m1",
+      "y": 0
+    },
+    "mount_face=north,facing=south,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m2",
+      "y": 0
+    },
+    "mount_face=north,facing=west,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_wall",
+      "y": 0
+    },
+    "mount_face=north,facing=west,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m1",
+      "y": 0
+    },
+    "mount_face=north,facing=west,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m2",
+      "y": 0
+    },
+    "mount_face=east,facing=north,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_wall",
+      "y": 90
+    },
+    "mount_face=east,facing=north,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m1",
+      "y": 90
+    },
+    "mount_face=east,facing=north,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m2",
+      "y": 90
+    },
+    "mount_face=east,facing=east,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_wall",
+      "y": 90
+    },
+    "mount_face=east,facing=east,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m1",
+      "y": 90
+    },
+    "mount_face=east,facing=east,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m2",
+      "y": 90
+    },
+    "mount_face=east,facing=south,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_wall",
+      "y": 90
+    },
+    "mount_face=east,facing=south,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m1",
+      "y": 90
+    },
+    "mount_face=east,facing=south,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m2",
+      "y": 90
+    },
+    "mount_face=east,facing=west,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_wall",
+      "y": 90
+    },
+    "mount_face=east,facing=west,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m1",
+      "y": 90
+    },
+    "mount_face=east,facing=west,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m2",
+      "y": 90
+    },
+    "mount_face=south,facing=north,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_wall",
+      "y": 180
+    },
+    "mount_face=south,facing=north,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m1",
+      "y": 180
+    },
+    "mount_face=south,facing=north,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m2",
+      "y": 180
+    },
+    "mount_face=south,facing=east,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_wall",
+      "y": 180
+    },
+    "mount_face=south,facing=east,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m1",
+      "y": 180
+    },
+    "mount_face=south,facing=east,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m2",
+      "y": 180
+    },
+    "mount_face=south,facing=south,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_wall",
+      "y": 180
+    },
+    "mount_face=south,facing=south,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m1",
+      "y": 180
+    },
+    "mount_face=south,facing=south,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m2",
+      "y": 180
+    },
+    "mount_face=south,facing=west,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_wall",
+      "y": 180
+    },
+    "mount_face=south,facing=west,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m1",
+      "y": 180
+    },
+    "mount_face=south,facing=west,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m2",
+      "y": 180
+    },
+    "mount_face=west,facing=north,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_wall",
+      "y": 270
+    },
+    "mount_face=west,facing=north,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m1",
+      "y": 270
+    },
+    "mount_face=west,facing=north,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m2",
+      "y": 270
+    },
+    "mount_face=west,facing=east,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_wall",
+      "y": 270
+    },
+    "mount_face=west,facing=east,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m1",
+      "y": 270
+    },
+    "mount_face=west,facing=east,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m2",
+      "y": 270
+    },
+    "mount_face=west,facing=south,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_wall",
+      "y": 270
+    },
+    "mount_face=west,facing=south,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m1",
+      "y": 270
+    },
+    "mount_face=west,facing=south,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m2",
+      "y": 270
+    },
+    "mount_face=west,facing=west,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_wall",
+      "y": 270
+    },
+    "mount_face=west,facing=west,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m1",
+      "y": 270
+    },
+    "mount_face=west,facing=west,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_wall_m2",
+      "y": 270
+    },
+    "mount_face=up,facing=north,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_floor",
+      "y": 0
+    },
+    "mount_face=up,facing=north,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_floor_m1",
+      "y": 0
+    },
+    "mount_face=up,facing=north,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_floor_m2",
+      "y": 0
+    },
+    "mount_face=up,facing=east,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_floor",
+      "y": 90
+    },
+    "mount_face=up,facing=east,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_floor_m1",
+      "y": 90
+    },
+    "mount_face=up,facing=east,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_floor_m2",
+      "y": 90
+    },
+    "mount_face=up,facing=south,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_floor",
+      "y": 180
+    },
+    "mount_face=up,facing=south,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_floor_m1",
+      "y": 180
+    },
+    "mount_face=up,facing=south,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_floor_m2",
+      "y": 180
+    },
+    "mount_face=up,facing=west,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_floor",
+      "y": 270
+    },
+    "mount_face=up,facing=west,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_floor_m1",
+      "y": 270
+    },
+    "mount_face=up,facing=west,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_floor_m2",
+      "y": 270
+    },
+    "mount_face=down,facing=north,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_ceil",
+      "y": 0
+    },
+    "mount_face=down,facing=north,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_ceil_m1",
+      "y": 0
+    },
+    "mount_face=down,facing=north,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_ceil_m2",
+      "y": 0
+    },
+    "mount_face=down,facing=east,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_ceil",
+      "y": 90
+    },
+    "mount_face=down,facing=east,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_ceil_m1",
+      "y": 90
+    },
+    "mount_face=down,facing=east,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_ceil_m2",
+      "y": 90
+    },
+    "mount_face=down,facing=south,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_ceil",
+      "y": 180
+    },
+    "mount_face=down,facing=south,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_ceil_m1",
+      "y": 180
+    },
+    "mount_face=down,facing=south,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_ceil_m2",
+      "y": 180
+    },
+    "mount_face=down,facing=west,frame=0": {
+      "model": "origolds_ia:block/origold_sawblade_ceil",
+      "y": 270
+    },
+    "mount_face=down,facing=west,frame=1": {
+      "model": "origolds_ia:block/origold_sawblade_ceil_m1",
+      "y": 270
+    },
+    "mount_face=down,facing=west,frame=2": {
+      "model": "origolds_ia:block/origold_sawblade_ceil_m2",
+      "y": 270
+    }
+  }
+}

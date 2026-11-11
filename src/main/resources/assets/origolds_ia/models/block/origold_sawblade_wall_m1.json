@@ -1,0 +1,45 @@
+{
+  "render_type": "minecraft:cutout",
+  "ambientocclusion": false,
+  "textures": {
+    "sawblade": "origolds_ia:block/sawblade_move1",
+    "particle": "origolds_ia:block/sawblade_move1"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        7.9,
+        0
+      ],
+      "to": [
+        16,
+        8.1,
+        16
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#sawblade",
+          "shade": false
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#sawblade",
+          "rotation": 180,
+          "shade": false
+        }
+      }
+    }
+  ]
+}

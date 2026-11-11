@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "origolds_ia:item/rainbow_mark_5x"
+  }
+}

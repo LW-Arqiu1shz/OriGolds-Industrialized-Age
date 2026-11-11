@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "origolds_ia:block/origold_void_drawer" },
+    "facing=south": { "model": "origolds_ia:block/origold_void_drawer", "y": 180 },
+    "facing=west": { "model": "origolds_ia:block/origold_void_drawer", "y": 270 },
+    "facing=east": { "model": "origolds_ia:block/origold_void_drawer", "y": 90 }
+  }
+}

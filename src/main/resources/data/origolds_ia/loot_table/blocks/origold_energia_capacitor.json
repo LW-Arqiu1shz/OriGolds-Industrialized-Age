@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "origolds_ia:origold_energia_capacitor",
+          "functions": [
+            {
+              "function": "origolds_ia:copy_oge_stored"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

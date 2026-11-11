@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.origolds.ia.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "client.ModListScreenMixin",
+    "client.ModListEntryMixin",
+    "client.ModListSortMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

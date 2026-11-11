@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "energy_level=0": {
+      "model": "origolds_ia:block/origold_energia_capacitor_0"
+    },
+    "energy_level=1": {
+      "model": "origolds_ia:block/origold_energia_capacitor_1"
+    },
+    "energy_level=2": {
+      "model": "origolds_ia:block/origold_energia_capacitor_2"
+    },
+    "energy_level=3": {
+      "model": "origolds_ia:block/origold_energia_capacitor_3"
+    },
+    "energy_level=4": {
+      "model": "origolds_ia:block/origold_energia_capacitor_4"
+    },
+    "energy_level=5": {
+      "model": "origolds_ia:block/origold_energia_capacitor_5"
+    },
+    "energy_level=6": {
+      "model": "origolds_ia:block/origold_energia_capacitor_6"
+    },
+    "energy_level=7": {
+      "model": "origolds_ia:block/origold_energia_capacitor_7"
+    },
+    "energy_level=8": {
+      "model": "origolds_ia:block/origold_energia_capacitor_8"
+    },
+    "energy_level=9": {
+      "model": "origolds_ia:block/origold_energia_capacitor_9"
+    },
+    "energy_level=10": {
+      "model": "origolds_ia:block/origold_energia_capacitor_10"
+    },
+    "energy_level=11": {
+      "model": "origolds_ia:block/origold_energia_capacitor_11"
+    },
+    "energy_level=12": {
+      "model": "origolds_ia:block/origold_energia_capacitor_12"
+    },
+    "energy_level=13": {
+      "model": "origolds_ia:block/origold_energia_capacitor_13"
+    },
+    "energy_level=14": {
+      "model": "origolds_ia:block/origold_energia_capacitor_14"
+    }
+  }
+}

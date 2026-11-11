@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "origolds_ar"
+    }
+  ],
+  "ingredients": [
+    "origolds_ar:volunteer_dummy",
+    "minecraft:diamond"
+  ],
+  "result": {
+    "id": "origolds_ia:volunteer_watcher",
+    "count": 1
+  }
+}

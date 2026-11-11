@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "origolds_ia:block/hopper_side_directional3_r270",
+    "up": "origolds_ia:block/hopper_input_directional_r90",
+    "north": "origolds_ia:block/hopper_side_directional1",
+    "south": "origolds_ia:block/hopper_side_directional2",
+    "east": "origolds_ia:block/hopper_output",
+    "west": "origolds_ia:block/hopper_output_back",
+    "particle": "origolds_ia:block/hopper_input_directional_r90"
+  }
+}

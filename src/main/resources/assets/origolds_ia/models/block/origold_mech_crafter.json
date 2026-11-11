@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "origolds_ia:block/mechcrafter_front",
+    "up": "origolds_ia:block/output_top",
+    "down": "origolds_ia:block/top_bottom",
+    "north": "origolds_ia:block/mechcrafter_front",
+    "south": "origolds_ia:block/mechcrafter_front",
+    "east": "origolds_ia:block/mechcrafter_front",
+    "west": "origolds_ia:block/mechcrafter_front"
+  }
+}

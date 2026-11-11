@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="OriGolds: Industrialized Age"
+authors="Arqiu-owo"
+logoFile="cover.png"
+description='''以金源工艺之力，自动化整个世界！
+Use your power from the Origolds, Automate your world!'''
+
+[[mixins]]
+config = "origolds_ia.mixins.json"
+
+[[dependencies.${mod_id}]]
+modId="neoforge"
+type="required"
+versionRange="[${neo_version},)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="minecraft"
+type="required"
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="origolds"
+type="required"
+versionRange="[1.1.2,)"
+ordering="NONE"
+side="BOTH"

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "origolds_ia:block/placer_top",
+    "bottom": "origolds_ia:block/output_top",
+    "side": "origolds_ia:block/placer_side20t"
+  }
+}

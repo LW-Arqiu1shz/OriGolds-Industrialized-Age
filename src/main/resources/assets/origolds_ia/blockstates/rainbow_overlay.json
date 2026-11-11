@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "tier=0": { "model": "origolds_ia:block/rainbow_overlay_5x" },
+    "tier=1": { "model": "origolds_ia:block/rainbow_overlay_20x" },
+    "tier=2": { "model": "origolds_ia:block/rainbow_overlay_100x" }
+  }
+}

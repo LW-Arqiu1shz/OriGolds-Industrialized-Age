@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "origolds_ia:block/chrysopoeia_side",
+    "up": "origolds_ia:block/output_top",
+    "down": "origolds_ia:block/top_bottom",
+    "north": "origolds_ia:block/chrysopoeia_side",
+    "south": "origolds_ia:block/chrysopoeia_side",
+    "east": "origolds_ia:block/chrysopoeia_side",
+    "west": "origolds_ia:block/chrysopoeia_side"
+  }
+}

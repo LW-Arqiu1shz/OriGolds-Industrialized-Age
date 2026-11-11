@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "dPd",
+    "aXa",
+    "dPd"
+  ],
+  "key": {
+    "d": "minecraft:diamond",
+    "P": "#minecraft:pickaxes",
+    "a": "#minecraft:axes",
+    "X": "origolds:magigold_core"
+  },
+  "result": {
+    "id": "origolds_ia:resource_generator_core",
+    "count": 1
+  }
+}

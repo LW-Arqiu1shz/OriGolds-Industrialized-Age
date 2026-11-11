@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "mode=0": { "model": "origolds_ia:block/origold_kela_machine_333" },
+    "mode=1": { "model": "origolds_ia:block/origold_kela_machine_555" },
+    "mode=2": { "model": "origolds_ia:block/origold_kela_machine_777" },
+    "mode=3": { "model": "origolds_ia:block/origold_kela_machine_999" }
+  }
+}
