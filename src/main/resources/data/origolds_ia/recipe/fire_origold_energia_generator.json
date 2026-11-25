@@ -7,7 +7,7 @@
     "ABA"
   ],
   "key": {
-    "A": "minecraft:iron_block",
+    "A": "minecraft:heavy_weighted_pressure_plate",
     "B": "origolds_ia:water_origold_energia_generator",
     "C": "minecraft:furnace"
   },

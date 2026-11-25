@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
+  "key": {
+    "B": "#origolds_ia:origold_gear_bars",
+    "C": "origolds:magigold_core"
+  },
+  "result": {
+    "id": "origolds_ia:origold_gear",
+    "count": 8
+  }
+}
