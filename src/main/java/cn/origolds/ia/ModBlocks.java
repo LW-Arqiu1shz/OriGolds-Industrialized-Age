@@ -363,6 +363,12 @@ public final class ModBlocks {
                     () -> new OGEFlavoredItem(new Item.Properties().rarity(Rarity.COMMON),
                             "tooltip.origolds_ia.useful.shiny_crumb", "tooltip.origolds_ia.bs.shiny_crumb"));
 
+    // 金源齿轮：1 魔金之核 + 8 铁栅栏合成 8 个，是所有金源机器的通用合成零件。
+    public static final DeferredItem<Item> ORIGOLD_GEAR =
+            ITEMS.register("origold_gear",
+                    () -> new OGEFlavoredItem(new Item.Properties().rarity(Rarity.COMMON),
+                            "tooltip.origolds_ia.useful.origold_gear", "tooltip.origolds_ia.bs.origold_gear"));
+
     // 资源发生器核心：各类资源生成器的共同合成材料（罕见，堆叠上限沿用默认 64）。
     public static final DeferredItem<Item> RESOURCE_GENERATOR_CORE =
             ITEMS.register("resource_generator_core",
@@ -484,6 +490,7 @@ public final class ModBlocks {
         }
         // 资源发生器核心是合成材料：进“原材料”页签与父模组“金源工艺”页签。
         if (CreativeModeTabs.INGREDIENTS.equals(event.getTabKey()) || ORIGOLDS_TAB.equals(event.getTabKey())) {
+            event.accept(ORIGOLD_GEAR.toStack(), CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
             event.accept(RESOURCE_GENERATOR_CORE.toStack(), CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
             event.accept(VOLUNTEER_WATCHER.toStack(), CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
             event.accept(RAINBOW_MARK.toStack(), CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);

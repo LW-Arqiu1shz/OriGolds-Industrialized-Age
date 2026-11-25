@@ -7,10 +7,18 @@
     "ABA"
   ],
   "key": {
-    "A": { "item": "minecraft:iron_ingot" },
-    "B": { "item": "minecraft:gold_block" },
-    "C": { "tag": "c:glass_blocks" },
-    "D": { "item": "origolds:magigold_core" }
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:light_weighted_pressure_plate"
+    },
+    "C": {
+      "tag": "c:glass_blocks"
+    },
+    "D": {
+      "item": "origolds_ia:origold_gear"
+    }
   },
   "result": {
     "id": "origolds_ia:origold_energia_capacitor",

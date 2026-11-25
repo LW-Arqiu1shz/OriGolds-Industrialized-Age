@@ -4,7 +4,7 @@
   "ingredients": [
     { "item": "minecraft:hopper" },
     { "item": "minecraft:gold_block" },
-    { "item": "origolds:magigold_core" }
+    { "item": "origolds_ia:origold_gear" }
   ],
   "result": {
     "id": "origolds_ia:origold_hyperhopper",

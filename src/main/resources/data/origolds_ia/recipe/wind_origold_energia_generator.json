@@ -8,7 +8,7 @@
   ],
   "key": {
     "A": { "item": "minecraft:oak_planks" },
-    "B": { "item": "origolds:magigold_core" },
+    "B": { "item": "origolds_ia:origold_gear" },
     "C": { "item": "minecraft:white_wool" }
   },
   "result": {

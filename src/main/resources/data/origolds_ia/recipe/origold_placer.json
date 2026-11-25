@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     { "item": "minecraft:gold_block" },
-    { "item": "origolds:magigold_core" },
+    { "item": "origolds_ia:origold_gear" },
     { "item": "minecraft:dispenser" }
   ],
   "result": {

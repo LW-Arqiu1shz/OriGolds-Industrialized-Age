@@ -7,8 +7,12 @@
     "OOO"
   ],
   "key": {
-    "O": { "item": "minecraft:obsidian" },
-    "c": { "item": "origolds_ia:resource_generator_core" }
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "c": {
+      "item": "origolds_ia:clay_generator"
+    }
   },
   "result": {
     "id": "origolds_ia:obsidian_generator",
