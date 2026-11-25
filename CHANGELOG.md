@@ -1,5 +1,25 @@
 # 更新日志 / Changelog
 
+## 1.1.0
+
+- 加入金源齿轮：1 个魔金之核 + 8 个铁栅栏 / 任意铜栅栏合成 8 个
+- 所有金源机器的配方中，魔金之核改为金源齿轮
+- 风驱金源能量发生器新增配方：中间的羊毛可换成皮革
+- 修正风驱金源能量发生器的提示文本
+- 金源齿轮加上废话提示
+- 金源蓄能电容的金块改为轻质测重压力板；火驱金源能量发生器的铁块改为重质测重压力板；魔驱金源能量发生器的钻石块改为钻石
+- 沙砾、黏土、黑曜石发生器改为逐级升级：黏土发生器中间放沙砾发生器，黑曜石发生器中间放黏土发生器
+
+---
+
+- Added the Origold Gear: 1 Magigold Core + 8 iron bars / any copper bars makes 8
+- All Origold machine recipes now use the Origold Gear instead of the Magigold Core
+- The Wind Origold Energia Generator can now also be crafted with leather in place of the wool
+- Fixed the Wind Origold Energia Generator's flavor text
+- Added a flavor line to the Origold Gear
+- Recipe changes: the Origold Energia Capacitor uses light weighted pressure plates instead of gold blocks, the Fire Origold Energia Generator uses heavy weighted pressure plates instead of iron blocks, and the Magic Origold Energia Generator uses diamonds instead of diamond blocks
+- The gravel, clay and obsidian generators now upgrade in order: the clay generator takes a gravel generator in the middle, and the obsidian generator takes a clay generator
+
 ## 1.0.2
 
 - 优化模组性能表现和双语适配

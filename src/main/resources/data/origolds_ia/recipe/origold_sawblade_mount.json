@@ -4,7 +4,7 @@
   "ingredients": [
     "minecraft:gold_block",
     "minecraft:stonecutter",
-    "origolds:magigold_core"
+    "origolds_ia:origold_gear"
   ],
   "result": {
     "id": "origolds_ia:origold_sawblade_mount",

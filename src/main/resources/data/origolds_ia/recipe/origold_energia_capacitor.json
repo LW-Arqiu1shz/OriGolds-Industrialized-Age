@@ -8,9 +8,9 @@
   ],
   "key": {
     "A": "minecraft:iron_ingot",
-    "B": "minecraft:gold_block",
+    "B": "minecraft:light_weighted_pressure_plate",
     "C": "#c:glass_blocks",
-    "D": "origolds:magigold_core"
+    "D": "origolds_ia:origold_gear"
   },
   "result": {
     "id": "origolds_ia:origold_energia_capacitor",

@@ -8,7 +8,7 @@
   ],
   "key": {
     "O": "minecraft:obsidian",
-    "c": "origolds_ia:resource_generator_core"
+    "c": "origolds_ia:clay_generator"
   },
   "result": {
     "id": "origolds_ia:obsidian_generator",

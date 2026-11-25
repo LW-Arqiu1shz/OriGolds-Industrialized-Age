@@ -8,7 +8,7 @@
   ],
   "key": {
     "C": "minecraft:clay",
-    "c": "origolds_ia:resource_generator_core"
+    "c": "origolds_ia:gravel_generator"
   },
   "result": {
     "id": "origolds_ia:clay_generator",

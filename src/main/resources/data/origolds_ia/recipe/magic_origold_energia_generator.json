@@ -7,7 +7,7 @@
     "ABA"
   ],
   "key": {
-    "A": "minecraft:diamond_block",
+    "A": "minecraft:diamond",
     "B": "origolds_ia:fire_origold_energia_generator",
     "C": "minecraft:enchanting_table"
   },

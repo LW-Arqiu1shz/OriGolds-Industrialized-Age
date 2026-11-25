@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     "minecraft:gold_block",
-    "origolds:magigold_core",
+    "origolds_ia:origold_gear",
     "minecraft:hopper"
   ],
   "result": {
